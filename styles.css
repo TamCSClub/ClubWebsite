@@ -52,18 +52,18 @@ sh {
 }
 
 h1 {
-  /* padding-left: 10%; */
-  margin: auto;
-  width: min(80vw, 740px);
-  text-align: left;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18pt;
+  	/* padding-left: 10%; */
+  	margin: auto;
+  	width: min(80vw, 740px);
+  	text-align: left;
+  	font-family: 'Montserrat', sans-serif;
+  	font-size: 18pt;
 }
 
 #home p {
-  margin: auto;
-  width: min(80vw, 740px);
-  text-align: left;
+  	margin: auto;
+  	width: min(80vw, 740px);
+  	text-align: left;
 }
 
 #navbar {
@@ -132,39 +132,39 @@ ul {
 }
 
 .avatar {
-  border-radius: 10%;
-  width: auto;
-  height: 9rem;
+  	border-radius: 10%;
+  	width: auto;
+  	height: 9rem;
 }
 
 .thumbnail {
-  width: 200px;
-  height: 200px;
-  outline-style: solid;
-  outline-color: rgb(150, 150, 150);
+  	width: 200px;
+  	height: 200px;
+  	outline-style: solid;
+  	outline-color: rgb(150, 150, 150);
 }
 
 #projects-table tr td p {
-  float:left;
-  text-align: left;
-  padding: 0px;
-  font-size: 1em;
+	float:left;
+  	text-align: left;
+  	padding: 0px;
+  	font-size: 1em;
 }
 
 #projects-table tr td {
-  float:left;
-  text-align: left;
-  padding: 5px 20px;
-  font-size: 1em;
+  	float:left;
+  	text-align: left;
+  	padding: 5px 20px;
+  	font-size: 1em;
 }
 
 .project-title {
-  font-weight: bold;
-  font-size: 1.1em;
-  float:left;
-  text-align: left;
-  padding: 10px 0px 2px 0px;
-  width: 200px;
+  	font-weight: bold;
+  	font-size: 1.1em;
+  	float:left;
+  	text-align: left;
+	padding: 10px 0px 2px 0px;
+  	width: 200px;
 }
 
 .officer-data {
