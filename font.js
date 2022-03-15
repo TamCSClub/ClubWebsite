@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //Sets the font-size of the page if on mobile
     body.style.fontSize = "1.4vh";
-    style(buttons, '1.3vh');
+    style(buttons, '1vh');
     pageEnd.style.fontSize = '1.3vh';
     style(shs, '24pt')
   } else {

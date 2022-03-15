@@ -171,3 +171,7 @@ ul {
     text-align: left;
     padding: 0px 20px 50px;
 }
+
+.our-btn {
+	max-height: 40px;
+}
